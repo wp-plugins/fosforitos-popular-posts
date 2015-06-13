@@ -1,4 +1,4 @@
-=== Popular Posts by BestWebSoft ===
+=== Fosforito's Popular Posts ===
 Contributors: fosforito
 Donate link: https://www.fosforito.net/donaciones/
 Tags: popular, widget display, widget, popular post, popular posts plugin, populer, popular posts, most visited posts, poular, pppular, popluar, populare, excerpt, popular posts widget, best website posts, post popularity, popular posts statistics, blog posts, post popularity rating, top posts
