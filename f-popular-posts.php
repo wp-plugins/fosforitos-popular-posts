@@ -4,7 +4,7 @@ Plugin Name: Fosforito's Popular Posts
 Plugin URI: https://www.fosforito.net/fpp
 Description: With this plugin you will be able to display your most popular posts based on comments or views in a widget.
 Author: Fosforito Media
-Version: 1.0.0
+Version: 1.0.2
 Author URI: https://www.fosforito.net/
 License: GPLv3 or later
 */

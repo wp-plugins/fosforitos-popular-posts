@@ -4,7 +4,7 @@ Donate link: https://www.fosforito.net/donaciones/
 Tags: popular, widget display, widget, popular post, popular posts plugin, populer, popular posts, most visited posts, poular, pppular, popluar, populare, excerpt, popular posts widget, best website posts, post popularity, popular posts statistics, blog posts, post popularity rating, top posts
 Requires at least: 3.1
 Tested up to: 4.2.2
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -12,14 +12,11 @@ With this plugin you will be able to display your most popular posts based on co
 
 == Description ==
 
-Note: This Plugin is not perfect! If you find any issues or if you think that something could be made better, don't hesitate to let us know about it!
-<a href="https://www.fosforito.net/forums">Submit a Feature Request on our Forums</a>
-
 Fosforito's Popular Posts by Fosforito Media plugin allows you to display your most popular posts in a widget. This plugin doesn’t require any additional settings, though there are some available options that can be adjusted. All you need to do is activate the plugin and add Fosforito's Popular Posts to a sidebar.
 
-<a href="http://wordpress.org/plugins/bws-popular-posts/faq/" target="_blank">FAQ</a>
+Note: This Plugin is not perfect! If you find any issues or if you think that something could be made better, don't hesitate to let us know about it!
 
-<a href="https://www.fosforito.net" target="_blank">Support</a>
+<a href="https://www.fosforito.net/forums">Submit a Feature or Support Request on our Forums</a>
 
 = Features =
 
@@ -66,6 +63,9 @@ Chances are, you have selected 'views' in 'Order by number of:' block in the wid
 3. Fosforito's Popular Posts result.
 
 == Changelog ==
+
+= V1.0.2 =
+* Plugin's SVN repository fixed
 
 = V1.0.0 - 11.06.2015 =
 * Initial Release
