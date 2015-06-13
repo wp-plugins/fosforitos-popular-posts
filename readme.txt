@@ -4,7 +4,7 @@ Donate link: https://www.fosforito.net/donaciones/
 Tags: popular, widget display, widget, popular post, popular posts plugin, populer, popular posts, most visited posts, poular, pppular, popluar, populare, excerpt, popular posts widget, best website posts, post popularity, popular posts statistics, blog posts, post popularity rating, top posts
 Requires at least: 3.1
 Tested up to: 4.2.2
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
